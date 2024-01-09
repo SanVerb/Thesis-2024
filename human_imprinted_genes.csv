@@ -1,0 +1,87 @@
+﻿taxon;Chromosome;Gene;Location
+Human;1;DIRAS3 (ARHI, NOEY2);1p31
+Human;1;RNU5D-1 (provisional);1p34.1
+Human;1;TP73 (conflicting evidence);1p36.33
+Human;2;LRRTM1 (provisional data);2p12
+Human;2;GPR1 (provisional data);2q33.3
+Human;2;GPR1-AS;2q33.3
+Human;2;ZDBF2;2q33.3
+Human;4;NAP1L5 (DRLM);4q22.1
+Human;5;RHOBTB3 (provisional);5q15
+Human;6;FAM50B and FAM50B-AS;6p25.2
+Human;6;AIM1;6q21
+Human;6;LIN28B (provisional);6q21
+Human;6;PLAGL1 (ZAC, LOT1);6q24
+Human;6;PHACTR2;6q24.2
+Human;6;HYMAI;6q24.2
+Human;6;SLC22A3 (OCT3) (provisional);6q26
+Human;6;SLC22A2 (OCT2);6q26
+Human;6;KIF25;6q27
+Human;7;GRB10 (MEG1);7p11.2-p12
+Human;7;CALCR;7q21.3 (92.9 Mb Build 36.1)
+Human;7;TFPI2;7q21.3 (93.4 Mb Build 36.1)
+Human;7;SGCE;7q21.3 (94.05 Mb Build 36.1)
+Human;7;PEG10;7q21.3 (94.1 Mb Build 36.1)
+Human;7;CPA4;7q32.2, (129.7 Mb Build 36.1)
+Human;7;COPG2IT1 (MIT1, CIT1);7q32.2 (129.93 Mb Build 36.1)
+Human;7;MESTIT1 (PEG1-AS);7q32.2 (129.9 Mb Build 36.1)
+Human;7;MEST (PEG1);7q32.2 (129.9 Mb Build 36.1)
+Human;7;COPG2 (disputed);7q32.2 (130.0 Mb Build 36.1)
+Human;7;KLF14;7q32.3
+Human;8;IDO1 (provisional data);8p11.21
+Human;8;DLGAP2;8p23
+Human;8;ZFAT-AS1 (provisional);8q24.22
+Human;8;KCNK9;8q24.3
+Human;9;GLIS3;9p24
+Human;10;INPP5F (INPP5F_V2);10q26.11
+Human;11;WT1 (AWT1, WT1 alternative);11p13
+Human;11;WT1-AS (AWT1) (provisional);11p13
+Human;11;IMAGe syndrome (CDKN1C);11p15
+Human;11;ZNF215 (provisional evidence);11p15.4
+Human;11;H19, miR-675;11p15.5 (01)
+Human;11;IGF2;11p15.5 (02)
+Human;11;MIR483 (hsa-mir-483);11p15.5 (02)
+Human;11;IGF2AS, PEG8;11p15.5 (02a)
+Human;11;INS, insulin;11p15.5 (03)
+Human;11;KCNQ1, KvLQT1;11p15.5 (07)
+Human;11;KCNQ1OT1 (LIT1, KvLQT1-AS, KvDMR1);11p15.5 (08)
+Human;11;KCNQ1DN (BWRT);11p15.5 (08a)
+Human;11;CDKN1C (p57KIP2);11p15.5 (09)
+Human;11;SLC22A18 (BWR1A, BWSCR1A, HET, IMPT1, ITM, ORCTL2, SLC22A1L, TSSC5)-[status questioned];11p15.5 (10a)
+Human;11;PHLDA2 (TSSC3, IPL, BWR1C);11p15.5 (11)
+Human;11;ANO1 (provisional data);11q13.3
+Human;12;WIF1;12q14.3
+Human;13;RB1;13q14
+Human;13;LPAR6;13q14.2
+Human;14;PiRNAs;14q32
+Human;14;MIR337;14q32
+Human;14;miR-134, DLK1-GTL2;14q32
+Human;14;RTL1;14q32.2
+Human;14;DLK1 (PEG9);14q32.2, 100.26 Mb (Mar 06)
+Human;14;MEG3 (GTL2);14q32.2, 100.4 Mb (Mar 06)
+Human;14;MEG8 (SNORD112, SNORD113, SNORD114);14q32.31
+Human;15;MKRN3 (ZNF127);15q11-q13 (01)
+Human;15;MAGEL2 (NDNL1);15q11-q13 (02)
+Human;15;NDN;15q11-q13 (03)
+Human;15;PWRN1;15q11-q13 (06)
+Human;15;NPAP1 (C15orf2);15q11-q13 (07)
+Human;15;"SNHG14 (SNURF, SNRPN, SNORD107 (HBII-436), SNORD64 (HBII-13), SNORD108(HBII-437), SNORD109A (HBII438A), SNORD116@ (PWCR1; HBII-85), SNORD115@ (HBII-52), SNORD109B (HBII438B), UBE3A-AS (incl. IPW,PAR-SN,PAR1,PAR5))";15q11-q13 (08)
+Human;15;UBE3A;15q11-q13 (10)
+Human;15;H73492 (Hs.268983) (provisional);15q13
+Human;15;IRAIN (IGF1R-AS) (provisional data);15q26.3
+Human;16;NAA60 (NAT15, HAT4, NATF);16p13.3
+Human;16;ZNF597;16p13.3, 3.4 Mb
+Human;19;DNMT1;19p13.2
+Human;19;AXL (provisional evidence);19q13.1
+Human;19;C19MC;19q13.42
+Human;19;ZNF331 (ZNF463) (provisional evidence);19q13.42 53.5 Mb
+Human;19;MIMT1 (ITUP1, MIM1, IMPO1);19q13.43
+Human;19;PEG3 (PW1), ZIM2;19q13.43 62.03 Mb
+Human;20;BLCAP (BC10);20q11.2
+Human;20;PSIMCT-1 (MCTS2, MCTS1 pseudogene);20q11.21
+Human;20;NNAT (Neuronatin);20q11.2-q12
+Human;20;L3MBTL1;20q13.12
+Human;20;SGK2;20q13.2
+Human;20;GNAS complex locus (GNAS1, Gs alpha, NESP55, XLalpha s, GNAS1-AS(SANG), miR-296, miR-298);20q13.2
+Human;20;CST1;None
+Human;21;DSCAM;21q22.2
